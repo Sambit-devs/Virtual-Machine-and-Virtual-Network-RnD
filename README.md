@@ -9,7 +9,7 @@ Welcome to my GitHub repository for the **Cloud Infra & Security004** internship
 ### 1. Vnet & VMs 
 - A detailed document explaining the **VMs, VNETs , Subnets, CIDR Ranges, Vnet Peering and it's types** in Microsoft Azure.
 
-### 2. Vnet & VMs 
+### 2. AVM & Prerequisites
 - A detailed document explaining the **Azure Virtual Networks, prerequisites to successfully deploy the disccused resources** in Microsoft Azure.
 
 ### 3. Configuration 
